@@ -1,5 +1,7 @@
 ## ESRGAN (Enhanced SRGAN) [:rocket: [BasicSR/EDVR](https://github.com/xinntao/BasicSR)]
 
+## versao por Leonardo
+
 #### The training codes are in :rocket: [BasicSR](https://github.com/xinntao/BasicSR). This repo only provides simple testing codes, pretrained models and the network interpolation demo.
 
 [BasicSR](https://github.com/xinntao/BasicSR) is an **open source** image and video super-resolution toolbox based on PyTorch (will extend to more restoration tasks in the future). <br>
